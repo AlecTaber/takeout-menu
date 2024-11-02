@@ -172,7 +172,7 @@ def print_itemized_receipt(receipt):
     #print(receipt)
 
     # TODO: Loop through the items in the customer's receipt
-    for item in receipt
+    for item in receipt:
 
         # TODO Store the dictionary items as variables
         item_name = item["Item name"]
